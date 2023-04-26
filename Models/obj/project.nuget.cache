@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxzA7HeqYu02u7fGiv6a869fDyIhAPax7W9BYk0c9sxJ/LRcv/QEjRjO1w4X5RlMfZcXETI232dsg3OYSkNyhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\ASP Project\\ContactBook_API\\week-7-imoebere\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
